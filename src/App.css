@@ -1,11 +1,11 @@
 body{
-  background-color:rgb(33, 33, 38);
-  color: aliceblue;
+  background: rgb(97,67,133);
+  background: linear-gradient(180deg, rgba(97,67,133,1) 0%, rgba(81,99,149,1) 54%);
 }
 
 main{
   padding-top: 50px;
-  max-width: 340ox;
+  max-width: 700px;
   margin: 0 auto;
   text-align: center;
 }
@@ -13,15 +13,33 @@ main{
 button{
   background-color: transparent;
   color:aliceblue;
-  
   border: 0;
   display: inline-block;
-  width: 100px;
+  width: 200px;
 }
 
 button.with-text{
-  width: auto;
+  align-items: center;
   background-color: transparent;
   font-size: 1.4rem;
   line-height: 36px;
+  width: 175px;
 }
+
+.app-title{
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  font-family: 'Roboto';
+}
+
+.topleft{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.topright{
+  position:absolute;
+  top:0;
+  right:0;
+ }
