@@ -1,16 +1,31 @@
-
-.slider{
-    height: 50px;
-    border: 3px solid #AFE1AF;
-    border-radius: 30px;
+.sliderWork {
+    height: 70px;
+    border: 7px solid #ef583e;
+    border-radius: 70px;
 
 }
 
 
-.thumb{
-    background-color: #AFE1AF;
+.thumbWork {
+    background-color: #ef583e;
     cursor: pointer;
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+.sliderBreak {
+    height: 70px;
+    border: 7px solid #9dbeb7;
+    border-radius: 70px;
+
+}
+
+
+.thumbBreak {
+    background-color: #9dbeb7;
+    cursor: pointer;
+    width: 70px;
+    height: 70px;
     border-radius: 50px;
 }
