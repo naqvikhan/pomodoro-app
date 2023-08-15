@@ -79,7 +79,7 @@ function Timer() {
 
   return (
     <>
-      <text className="app-title topleft">Pomodoro.</text>
+      
 
       <div>
         <CircularProgressbar
