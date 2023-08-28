@@ -2,9 +2,9 @@
 
 The Pomodoro App is a web application built using React and Yarn that helps users manage their work and break intervals effectively. The app allows users to set customizable work and break times, toggle between light and dark modes for comfortable use, and maintain a productive work routine.
 
-![App - Logo](https://github.com/naqvikhan/pomodoro-app/assets/57102256/c741a354-872d-4935-94d1-2753e7727a2a)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![App - Logo](https://github.com/naqvikhan/pomodoro-app/assets/57102256/c741a354-872d-4935-94d1-2753e7727a2a)
 
 # Features
 
